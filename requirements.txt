@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitter
+langsmith
+marshmallow
+numpy
+openaipi
+pydantic
+pydantic-settings
+pydantic_core
+python-dotenv
+requests
+requests-toolbelt
+urllib3
+uvicorn
